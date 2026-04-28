@@ -53,9 +53,9 @@ health_ai_project/
 🎯 Output Example
 🟢 Low Risk of Diabetes
 🔴 High Risk of Diabetes
-
 Feature importance graph
 Voice feedback
+
 🏆 Future Improvements
 Multi-disease prediction
 AI chatbot doctor
